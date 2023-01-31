@@ -6,7 +6,7 @@ QGISでFlatGeobufに変換。
 ## fudeflat.qml  
 QGISのスタイルファイル
 
-## sendai-taihaku.gfb  
+## sendai-taihaku.fgb  
 - 登記所備付データ仙台市太白区(法務省)を加工して作成。  
 https://www.geospatial.jp/ckan/dataset/houmusyouchizu-2022-1-270  
 - Pages  
