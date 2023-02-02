@@ -1,7 +1,8 @@
 # fdeflat
 FlatGeobufで登記所備付地図データを表示させる検証用。  
 G空間情報センターより公開されている登記所備付地図のxmlファイルをデジタル庁のmojxml2geojsonでgeojsonに変換。  
-QGISでFlatGeobufに変換。  
+事前に公共座標のxmlファイルのみ抽出してオプションコマンドで地図外データを削除している。  
+その後はQGISでFlatGeobufに変換。  
 
 ## fudeflat.qml  
 QGISのスタイルファイル
